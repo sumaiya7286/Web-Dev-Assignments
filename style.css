@@ -1,0 +1,23 @@
+
+body{
+ background-color: black;
+ color: white;
+}
+
+.intro{
+   display: flex;
+   margin: 20px;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+}
+
+img{
+    width: 200px;
+}
+.hobby{
+    display: flex;
+     justify-content: space-between;
+}
